@@ -32,7 +32,7 @@ All free resource
 
 # projects
 1. https://www.codementor.io/projects
-1. Javascript mastery
+1. Javascript mastery (or other youtube channel)
 
 # Learning DSA
 1. https://www.programiz.com/
